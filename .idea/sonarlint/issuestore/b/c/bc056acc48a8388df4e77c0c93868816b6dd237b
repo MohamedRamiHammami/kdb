@@ -1,0 +1,9 @@
+
+
+java:S1450"[Remove the "lastPollTime" field and declare it as a local variable in the relevant methods.(ÏÌ÷¤8¡ÃÃÊÿ1J$529ceb5f-62f0-45cb-9da1-7f80f1ab0015
+m	java:S106?"+Replace this use of System.out by a logger.(Ê…ò8±ÃÃÊÿ1J$d15bcef0-8a09-4d2a-90cc-b427c2191ee0
+¡
+java:S2142["^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ë²½±8²ÃÃÊÿ1J$38fd178d-1551-4e5b-9803-93d049bdf249
+m	java:S106R"+Replace this use of System.out by a logger.(Ê…ò8³ÃÃÊÿ1J$3a48d9a9-75cf-4d14-83a1-964b49d1bc14
+s
+java:S1068"0Remove this unused "lastPollTime" private field.(ÏÌ÷¤8³ÃÃÊÿ1J$7ff6fae7-19db-4349-b9fd-dfc682ac7882

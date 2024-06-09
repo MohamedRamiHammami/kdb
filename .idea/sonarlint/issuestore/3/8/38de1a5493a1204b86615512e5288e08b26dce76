@@ -1,0 +1,69 @@
+
+‡	java:S112š"FDefine and throw a dedicated exception instead of using a generic one.(·€¸ıúÿÿÿÿJ$0ff25ccd-c7fb-4347-b35b-c6c7e5264f41
+‚	java:S112‚"FDefine and throw a dedicated exception instead of using a generic one.(ÚŠ­®J$8b03d3f1-f839-44d7-9d2b-98d2d2308f5b
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(€×²@J$c831f51b-1e15-4855-99c5-1b359f0e0113
+‡	java:S112Ø"FDefine and throw a dedicated exception instead of using a generic one.(Ã¶õßÿÿÿÿÿJ$9c858b07-44a2-4f78-ba76-f7befcedbe7e
+k
+java:S1121€".Extract the assignment out of this expression.(¦Ş¯ºJ$a0791fe5-7859-43cf-b079-1f4bdbbd0753
+
+java:S1104a"MMake s a static final constant or non-public and provide accessors if needed.(Ä€ÃşÿÿÿÿJ$e7673e84-91b3-4993-8757-5b27cd62404a
+
+java:S1104‡"MMake i a static final constant or non-public and provide accessors if needed.(—ºğøÿÿÿÿJ$33586b92-d4e7-4249-b445-4ee5f6f81605
+
+java:S1104¨"MMake i a static final constant or non-public and provide accessors if needed.(—ºğøÿÿÿÿJ$13248a8b-616a-491b-80b8-d6768c55af60
+
+java:S1104Æ"MMake i a static final constant or non-public and provide accessors if needed.(—ºğøÿÿÿÿJ$0ad6e302-df79-436c-83d5-4ad8cf59a53b
+Š
+java:S1104ä"MMake j a static final constant or non-public and provide accessors if needed.(Œ”ÃJ$d5796a77-6fed-47fe-aa5e-1ee0240a5865
+
+java:S1104Ÿ"MMake x a static final constant or non-public and provide accessors if needed.(ó °øÿÿÿÿJ$17413392-4b5a-4ea2-8087-b953ed016c9c
+
+java:S1104¡"MMake y a static final constant or non-public and provide accessors if needed.(»¶øĞúÿÿÿÿJ$4139018e-50f2-4078-a06e-a006820d7436
+Š
+java:S1104µ"MMake x a static final constant or non-public and provide accessors if needed.(ª¯À„J$04699798-bce6-4ad6-bb80-46912ff4f3a0
+
+java:S1104·"MMake y a static final constant or non-public and provide accessors if needed.(ÎŠ¦³ûÿÿÿÿJ$f85433b9-72d9-4595-97f2-5e74808119c2
+ˆ	java:S101E"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(úÆéÍJ$60cc4dd5-fbd4-4236-aed3-0b142ebc8cb8
+Š
+java:S1845Ï"MRename method "NULL" to prevent any misunderstanding/clash with field "NULL".(·ºú§J$d6e90b04-a876-4a02-9b5a-18e79d523192
+_
+java:S2386Æ"Make this member "protected".(çÛÿéøÿÿÿÿJ$5bb13983-1352-4ad8-aa6c-50b25be0ac72
+¹
+java:S1130["}Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException', as it cannot be thrown from method's body.(ÑŠÇ¥J$89bc836b-2b8b-49cd-994d-034cea4039e6
+
+java:S3776İ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÁÚĞ¸J$d990dd10-0e37-4c3a-a954-70db1869f2d4
+w
+java:S1117í"5Rename "s" which hides the field declared at line 97.(“—©úÿÿÿÿJ$069df9c6-37b2-4ec6-8998-d56007a77c37
+w
+java:S1117Ÿ"5Rename "s" which hides the field declared at line 97.(“—©úÿÿÿÿJ$64e5289f-0697-464f-a811-d4cdd1069dcd
+h
+java:S1905§"&Remove this unnecessary cast to "int".(¸Ÿ°ôşÿÿÿÿJ$729d8df3-f6e1-48e8-a306-e9156f950868
+h
+java:S1905«"&Remove this unnecessary cast to "int".(ñ„‚¶şÿÿÿÿJ$1e678306-9c75-46db-bffd-e4b65df99764
+c
+java:S1905®"&Remove this unnecessary cast to "int".(·—ÕŒJ$cdcb1d16-0080-421b-b8b0-0c782b702372
+h
+java:S1905´"&Remove this unnecessary cast to "int".(¼›í»üÿÿÿÿJ$017dc90b-19a5-41fc-8af4-ad366e8cf042
+h
+java:S1905´"&Remove this unnecessary cast to "int".(¼›í»üÿÿÿÿJ$08536379-78c8-4bc6-96f2-1a645e03f28a
+”
+java:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(Ç†¾üÿÿÿÿJ$0cc60bcb-07ee-4fcf-a8c7-411490c8ef91
+^	java:S131ı""Add a default case to this switch.(Ä“áJ$c242275b-7c9d-477a-84fa-257f5d17f400
+
+java:S3776¤	"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ÏîvJ$d82fd922-1240-4730-94a8-751306723ae9
+
+java:S3776±
+"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ÍÇ­¶J$9fbbd539-4195-4c12-86b2-86def9879919
+^	java:S131·
+""Add a default case to this switch.(ÜŸ•J$1eada3e5-db3a-4355-8b0c-c0621b6136da
+Á
+java:S1130ô"Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException' which is a subclass of 'java.io.IOException'.(Œ‘èúÿÿÿÿJ$1015596f-9579-44a7-9476-fc1404abef9c
+¼
+java:S1130—"Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException' which is a subclass of 'java.io.IOException'.(Ñà¾ËJ$4190d4e8-a2ab-47b8-a795-2a40ccdc3432
+l	java:S106©"+Replace this use of System.err by a logger.(„Î¯ÔüÿÿÿÿJ$4d7496ab-dadc-45a8-9ff5-87acc689a493
+Š	java:S100Ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ºú§J$02be7f97-32d5-4b7e-a920-fed05e3dcf2a
+‰
+java:S6541ø"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 162 to 64, Complexity from 66 to 14, Nesting Level from 3 to 2, Number of Variables from 22 to 6.(Ç†¾üÿÿÿÿJ$5bfe507e-75a0-4605-917e-d3760dc76644
+ƒ
+java:S6541±
+"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 121 to 64, Complexity from 42 to 14, Nesting Level from 3 to 2, Number of Variables from 7 to 6.(ÍÇ­¶J$99c378d9-0435-4a00-8445-fd816ff3f348
